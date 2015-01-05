@@ -118,8 +118,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:006846_0000_102A7D658EB3DEC8"/>
-            <pb facs="tcp:006846_0001_102A7D680E0DD6E0" rendition="simple:additions"/>
+            <pb facs="unknown:006846_0000_102A7D658EB3DEC8"/>
+            <pb facs="unknown:006846_0001_102A7D680E0DD6E0"
+                rendition="simple:additions"/>
             <p>AN ESSAY ON CONDUCT AND EDUCATION. Recommended To the People called QUAKERS, By J. F.</p>
             <q>
                <bibl>1 Pet. iv. 18.</bibl> And if the Righteous ſcarcely be ſaved, where ſhall the Ungodly and Sinner appear!</q>
@@ -127,11 +128,11 @@
             <p>LONDON Printed: PHILADELPHIA: Reprinted and Sold by JAMES CHATTIN, at the PRINTING-OFFICE, next Door to the PIPE, in CHURCH-ALLEY, M,DCC,LII. [Price 6 d]</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:006846_0002_102A7D6C8CDA5050"/>
+            <pb facs="unknown:006846_0002_102A7D6C8CDA5050"/>
             <head>THE PREFACE.</head>
             <p>WHen firſt I began the following Lines, I was ſo far from the Leſign of publiſhing them, that I only intended them as a private Let<g ref="char:EOLhyphen"/>ter to my Friend J. C. containing my Sentiments relating to the SOCIETY, from an Apprehenſion of the Want of ſuch Examples and Precepts in the Parents and Elders, as riſe from the Experience of the Work of Regeneration, and the total ſubduing the natural Will of Man, and its being brought into compleat Subjection to the Will of God; by which, the Deſire and Inclination being changed, and they created in Chriſt Jeſus unto good Works might glorify God, in living new Lives; Lives of Holineſs and Purity; and ſo might truly exhort the riſing Generation, to be "Followers of them, as they follow Chriſt;" and, from ſuch a Conduct in the World, as proceeds from thence, might "a<g ref="char:EOLhyphen"/>dorn the Doctrine of God, our Saviour, in all Things;" and be as "Lights in the World," and an Honour to the high Profeſſion we make among Men; without which Experience, Endeavours, in Education, are render'd ſaint, and very much un<g ref="char:EOLhyphen"/>profitable.</p>
             <p>But when I conſider'd that the Publiſhing the en<g ref="char:EOLhyphen"/>ſuing Lines, could not be injurious to any; but might be of ſome Advantage to the Religious and
-<pb n="iv" facs="tcp:006846_0003_102A7D6E1E8B2338"/>Well-inclined (whether old or young) or at leaſt afford them an innocent, if not commendable, A<g ref="char:EOLhyphen"/>muſement, I was induced to publiſh them, that, as my Friend J. C. has ſeaſonably called, more eſpe<g ref="char:EOLhyphen"/>cially to the Youth, I might likewiſe remind the El<g ref="char:EOLhyphen"/>ders of their Duty alſo; that all might anſwer their Calling, which is to Holineſs, and the End thereof, Eternal Life.</p>
+<pb n="iv" facs="unknown:006846_0003_102A7D6E1E8B2338"/>Well-inclined (whether old or young) or at leaſt afford them an innocent, if not commendable, A<g ref="char:EOLhyphen"/>muſement, I was induced to publiſh them, that, as my Friend J. C. has ſeaſonably called, more eſpe<g ref="char:EOLhyphen"/>cially to the Youth, I might likewiſe remind the El<g ref="char:EOLhyphen"/>ders of their Duty alſo; that all might anſwer their Calling, which is to Holineſs, and the End thereof, Eternal Life.</p>
             <p>Innumerable are the Advantages enjoy'd, even in this Life, by ſuch as take the Advice of our Sa<g ref="char:EOLhyphen"/>viour, viz. "Seek ye firſt the Kingdom of God, and his Righteouſneſs, and all theſe Things ſhall be added unto you;" and if Mankind were ſo happy, as "to remember their Creator in the Days of their Youth, while the evil Days come not," and knew their Affections limitted, and brought under proper Reſtrictions, by the Operation of the Spirit of God, in their own Hearts, they would, thereby, be ful<g ref="char:EOLhyphen"/>ly furniſhed, unto every good Word and Work. This would likewiſe preſerve the Youth in an in<g ref="char:EOLhyphen"/>nocent Converſation, and direct them, even in the Management of the Affairs of this Life, in their firſt ſetting out in the World, particularly in that important Affair of Marriage; and, afterwards, in the Chriſtian and prudent Education of their Chil<g ref="char:EOLhyphen"/>dren, &amp;c. the want of which, is the Cauſe of many Evils and Diſadvantages, under which Mankind la<g ref="char:EOLhyphen"/>bour; that this may be as much as poſſible avoided, and that Truth and Righteouſneſs may be propa<g ref="char:EOLhyphen"/>gated, and continued, from one Generation to a<g ref="char:EOLhyphen"/>nother, is the Deſire of a Well-wiſher to all Man<g ref="char:EOLhyphen"/>kind, but, more eſpecially, to the Houſhold of Faith.</p>
             <closer>
                <signed>J. F.</signed>
@@ -140,7 +141,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="5" facs="tcp:006846_0004_102A7D6FF27CD1E8"/>
+            <pb n="5" facs="unknown:006846_0004_102A7D6FF27CD1E8"/>
             <head>AN ESSAY ON CONDUCT, <hi>&amp;c.</hi>
             </head>
             <lg>
@@ -165,7 +166,7 @@
                <l>While the Upright, and thoſe who are ſincere,</l>
                <l>Their Words and Ways review with jealous Fear;</l>
                <l>
-                  <pb n="6" facs="tcp:006846_0005_102A7D736DEF52B8"/>
+                  <pb n="6" facs="unknown:006846_0005_102A7D736DEF52B8"/>
 Who doubt their Caſe, and fear it is not right,</l>
                <l>And often bring their Deeds unto the Light;</l>
                <l>Whoſe ſole Dependance is upon the Lord,</l>
@@ -205,7 +206,7 @@ Who doubt their Caſe, and fear it is not right,</l>
                <l>To publiſh more Advice, more Counſel ſhew,</l>
                <l>And tell the Elders next what they ſhould do;</l>
                <l>
-                  <pb n="7" facs="tcp:006846_0006_102A7D75E283A9B0"/>
+                  <pb n="7" facs="unknown:006846_0006_102A7D75E283A9B0"/>
 The Parents, how themſelves they ſhould behave</l>
                <l>In Converſation, prudent, wiſe, and grave;</l>
                <l>That they thereby may good Examples give,</l>
@@ -247,7 +248,7 @@ The Parents, how themſelves they ſhould behave</l>
                <l>I thought, 'tis true, how much he might have ſaid,</l>
                <l>Had he but then a further Progreſs made;</l>
                <l>
-                  <pb n="8" facs="tcp:006846_0007_102A7D7773FAF9F0"/>
+                  <pb n="8" facs="unknown:006846_0007_102A7D7773FAF9F0"/>
 Had he review'd the Church's preſent State,</l>
                <l>So zealous once, ſo much deprav'd of late;</l>
                <l>So much declined from that godly Fear,</l>
@@ -287,7 +288,7 @@ Had he review'd the Church's preſent State,</l>
                <l>And, while they know it not, none can expect</l>
                <l>They ſhould their Children to the ſame direct.</l>
                <l>
-                  <pb n="9" facs="tcp:006846_0008_102A7D79AF0F6CA0"/>
+                  <pb n="9" facs="unknown:006846_0008_102A7D79AF0F6CA0"/>
 Thus, Avarice and Negligence, we ſee,</l>
                <l>Of laſting Hurt, and Conſequence, may be.</l>
                <l>Tho' good Advice, and Conduct too, may fail,</l>
@@ -327,7 +328,7 @@ Thus, Avarice and Negligence, we ſee,</l>
                <l>Compound, perhaps, and pay the Quarter Part,</l>
                <l>Then ſtrive to live by Shifts and Turns of Art:</l>
                <l>
-                  <pb n="10" facs="tcp:006846_0009_102A7D94CC094C80"/>
+                  <pb n="10" facs="unknown:006846_0009_102A7D94CC094C80"/>
 Perhaps, by Breaking, ſome Advantage gain,</l>
                <l>(Tho' other Man then <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -374,7 +375,7 @@ Perhaps, by Breaking, ſome Advantage gain,</l>
                <l>No great Expences did their Lives attend,</l>
                <l>Nor living great and high, their Subſtance ſpend.</l>
                <l>
-                  <pb n="11" facs="tcp:006846_0010_102A7D80582E6630"/>
+                  <pb n="11" facs="unknown:006846_0010_102A7D80582E6630"/>
 No needleſs Diſhes did they then provide</l>
                <l>Nor no Utenſils, meerly bought for Pride.</l>
                <l>No Promiſe broke, nor ſhuffling Contract made,</l>
@@ -418,7 +419,7 @@ No needleſs Diſhes did they then provide</l>
                <l>Their Darling Reaſon can no Standard be,</l>
                <l>Since its Admirers never all agree,</l>
                <l>
-                  <pb n="12" facs="tcp:006846_0011_102A7D81E714DE18"/>
+                  <pb n="12" facs="unknown:006846_0011_102A7D81E714DE18"/>
 One Set of Men, by Reaſon, will pretend</l>
                <l>Their own peculiar Notions to defend;</l>
                <l>While others, having Reaſon ſtill in view,</l>
@@ -457,7 +458,7 @@ One Set of Men, by Reaſon, will pretend</l>
                <l>Much Need there is, their Danger to lament,</l>
                <l>And call upon them timely to repent;</l>
                <l>
-                  <pb n="13" facs="tcp:006846_0012_102A7D84202B5618"/>
+                  <pb n="13" facs="unknown:006846_0012_102A7D84202B5618"/>
 And to convince them that it is in vain,</l>
                <l>That they a Form of Godlineſs retain</l>
                <l>(If that they have) while Strangers to the Pow'r,</l>
@@ -495,7 +496,7 @@ And to convince them that it is in vain,</l>
                <l>For greater the Convincement now appears,</l>
                <l>Than hath been ſeen before for divers Years,</l>
                <l>
-                  <pb n="14" facs="tcp:006846_0013_102A7D8667942FD8"/>
+                  <pb n="14" facs="unknown:006846_0013_102A7D8667942FD8"/>
 As the Declenſion has come faſter on,</l>
                <l>And divers are from our Profeſſion gone:</l>
                <l>This plainly ſhews that God is ſtill the ſame,</l>
@@ -537,7 +538,7 @@ As the Declenſion has come faſter on,</l>
                <l>Diffuſing Light and Warmth to the Creation,</l>
                <l>And, to the Living, yielding Preſervation;</l>
                <l>
-                  <pb n="15" facs="tcp:006846_0014_102A7D89C38A0D38"/>
+                  <pb n="15" facs="unknown:006846_0014_102A7D89C38A0D38"/>
 Both Plants, and Herbs, and <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Creatures, are</l>
@@ -582,7 +583,7 @@ Both Plants, and Herbs, and <gap reason="illegible: indecipherable" extent="1 wo
                      <desc>•</desc>
                   </gap>caſions flow:</l>
                <l>
-                  <pb n="16" facs="tcp:006846_0015_102A7D8B5310C878"/>
+                  <pb n="16" facs="unknown:006846_0015_102A7D8B5310C878"/>
 From hence ariſe the Reproach, that we,</l>
                <l>For want of Conduct, now too frequent ſee.</l>
                <l>Men, truly wiſe, will theſe Diſtinctions make,</l>
@@ -632,7 +633,7 @@ From hence ariſe the Reproach, that we,</l>
                      <desc>〈◊〉</desc>
                   </gap> what they have not ſcarce believ'd,</l>
                <l>
-                  <pb n="17" facs="tcp:006846_0016_102A7D8CF4009F40"/>
+                  <pb n="17" facs="unknown:006846_0016_102A7D8CF4009F40"/>
 And call that Faith where Judgment cannot be;</l>
                <l>And practiſe Things whoſe Uſe they never ſee.</l>
                <l>Thus Faith and Judgment to their Wills comply</l>
@@ -692,7 +693,7 @@ And call that Faith where Judgment cannot be;</l>
                      <desc>〈◊〉</desc>
                   </gap> of which, is, by Experience, found.</l>
                <l>
-                  <pb n="18" facs="tcp:006846_0017_102A7D90B3E7B070"/>
+                  <pb n="18" facs="unknown:006846_0017_102A7D90B3E7B070"/>
 Where 'tis not ſo, we may confeſs, with Shame,</l>
                <l>Our Doctrine true, and we ourſelves to blame.</l>
                <l>What Conduct doth from Principle ariſe,</l>
@@ -731,7 +732,7 @@ Where 'tis not ſo, we may confeſs, with Shame,</l>
                <l>And call in others, who ſhall freely ſhare</l>
                <l>The Favours which He did for them prepare;</l>
                <l>
-                  <pb n="19" facs="tcp:006846_0018_102A7A52BA1F0F10"/>
+                  <pb n="19" facs="unknown:006846_0018_102A7A52BA1F0F10"/>
 Becauſe His Table will be fill'd with Gueſt,</l>
                <l>And he that comes, when call'd, is ſurely bleſt.</l>
             </lg>
@@ -775,7 +776,7 @@ Becauſe His Table will be fill'd with Gueſt,</l>
                <l>Theſe Things, kind Reader, being wrote in Love,</l>
                <l>Will not, I hope, to thee unfruitful prove;</l>
                <l>
-                  <pb n="20" facs="tcp:006846_0019_102A7D7CC499E310"/>
+                  <pb n="20" facs="unknown:006846_0019_102A7D7CC499E310"/>
 Wherein I've labour'd all I could to be</l>
                <l>From needleſs Words, or Flights of Fancy, free;</l>
                <l>And purpoſer; endeavour'd to expreſs,</l>
@@ -828,7 +829,7 @@ Wherein I've labour'd all I could to be</l>
                <l>And thou may ſoon a Judgment form from thence</l>
                <l>What will in Time become the Conſequence.</l>
                <l>
-                  <pb n="21" facs="tcp:006846_0020_102A7D98A73EBCD8"/>
+                  <pb n="21" facs="unknown:006846_0020_102A7D98A73EBCD8"/>
 Spend leſs than what thou get'ſt, and this will be</l>
                <l>A laſting Rule of Safety unto thee:</l>
                <l>And then, if unexpected Loſs attends,</l>
@@ -877,7 +878,7 @@ Spend leſs than what thou get'ſt, and this will be</l>
       </body>
       <back>
          <div type="postscript">
-            <pb n="22" facs="tcp:006846_0021_102A7D9AAED1B3D8"/>
+            <pb n="22" facs="unknown:006846_0021_102A7D9AAED1B3D8"/>
             <head>A POSTSCRIPT, TO People of all other PERSWASIONS.</head>
             <lg>
                <l>THus having, Reader, in this ſhort Eſſay,</l>
@@ -905,7 +906,7 @@ Spend leſs than what thou get'ſt, and this will be</l>
                <l>Untainted yet by Lucre; fill'd with Zeal,</l>
                <l>Theſe to the Conſciences of Men appeal,</l>
                <l>
-                  <pb n="23" facs="tcp:006846_0022_102A7D9E0D684040"/>
+                  <pb n="23" facs="unknown:006846_0022_102A7D9E0D684040"/>
 And boldly laſh the Vices of Mankind,</l>
                <l>Not bound by Hire, from Wages unconfin'd;</l>
                <l>So that from hence true Knowledge doth increaſe,</l>
